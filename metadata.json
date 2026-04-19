@@ -1,0 +1,8 @@
+{
+  "name": "FloraGuide Assistant",
+  "description": "An AI-powered gardening assistant that identifies plants from photos and provides tailored care instructions and expert advice.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
